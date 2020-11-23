@@ -1,5 +1,6 @@
 {
 "title": "Phineas and Ferb",
 "path": "films/PhineasAndFerb.mp4",
-"duration": 1350
+"duration": 1350,
+"startDate": "November 23, 2020 15:00:00"
 }
