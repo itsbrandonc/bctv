@@ -17,7 +17,7 @@ var startTime;
 window.onload = function() {
   moviescreen = $("moviescreen"); //video element
   moviescreen.setAttribute("controlslist", "nodownload");
-  filmInfo = getTextFileInfo("films/ROTS_ExtendedEdition.txt");
+  filmInfo = getTextFileInfo("films/filmdata.txt");
 
   moviescreen.addEventListener('durationchange', function() {
     console.log("Duration change");
